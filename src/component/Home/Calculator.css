@@ -1,0 +1,25 @@
+/* src/components/Calculator.css */
+.calculator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .calculator input {
+    width: 150px;
+    padding: 8px;
+    margin: 5px;
+    font-size: 16px;
+  }
+  
+  .calculator button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+  }
+  
+  .calculator h3 {
+    margin-top: 20px;
+  }
+  
